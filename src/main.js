@@ -247,7 +247,7 @@ const tickrate = 1;
 //how many ticks per second
 //1 is the default value; going too high might make the game unstable
 
-const global_xp_multiplier = 1;
+const global_xp_multiplier = 1000000;
 
 //stuff from options panel
 const game_options = {
